@@ -1,6 +1,3 @@
-pelicula1
-pelicula2
-pelicula3
 pelicula4
 pelicula5
 pelicula6
